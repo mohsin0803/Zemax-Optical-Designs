@@ -1,0 +1,5 @@
+*.BAK   # Backup files
+*.ZCR   # Session window data
+*.ZDA   # Modern session state data
+*.CFG   # Configuration files
+*.TMP   # Temporary calculation caches
